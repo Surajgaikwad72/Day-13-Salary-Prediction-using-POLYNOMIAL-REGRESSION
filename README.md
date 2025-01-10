@@ -1,2 +1,2 @@
 # Day-13-Salary-Prediction-using-POLYNOMIAL-REGRESSION
-I have taken a challenge to make project on every algorithm of Machine Learning. [ Day-13 | Salary Prediction using POLYNOMIAL REGRESSION]
+I have taken a challenge to make project on every algorithm of Machine Learning. [ Day-13 | Salary Prediction using POLYNOMIAL REGRESSION] explores the process of predicting an employee's salary based on their years of experience. In this project, we apply polynomial regression to model the relationship between experience and salary, allowing for more accurate predictions compared to simple linear regression, especially when the data exhibits a non-linear pattern
